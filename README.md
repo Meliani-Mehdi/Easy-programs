@@ -23,7 +23,7 @@ No strings attached—just give credit if you feel like it! 🙌
 To clone this repo and start exploring:
 ```sh
 git clone https://github.com/Meliani-Mehdi/Easy-programs.git
-cd Easy-programs🌐 Multiple languages – Different projects use different programming languages, so there’s something for everyone.
+cd Easy-programs
 ```
 Browse through the folders, check out the code, and have fun!
 
