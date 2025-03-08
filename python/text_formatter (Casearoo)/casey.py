@@ -24,16 +24,24 @@ class Casey:
         return text.lower()
 
     def titleCase(self, text):
-        pass
+        return text.title()
 
     def inverseCase(self, text):
-        pass
-
+        invText=""
+        for l in text :
+            if( l.isalpha()):
+                if(l.isupper()):
+                    l.lower()
+                else:
+                    l.upper()
     def reverseCase(self, text):
-        pass
+        revText=""
+        for l in text :
+            revText=+l
+        return revText
 
     def capitalizedCase(self, text):
-        pass
+        return text.capitalize()
 
 
 
